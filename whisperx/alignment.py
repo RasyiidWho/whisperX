@@ -51,7 +51,9 @@ DEFAULT_ALIGN_MODELS_HF = {
     "ur": "kingabzpro/wav2vec2-large-xls-r-300m-Urdu",
     "te": "anuragshas/wav2vec2-large-xlsr-53-telugu",
     "hi": "theainerd/Wav2Vec2-large-xlsr-hindi",
-    "ca": "softcatala/wav2vec2-large-xlsr-catala"
+    "ca": "softcatala/wav2vec2-large-xlsr-catala",
+    "id": "WAV2VEC2_ASR_LARGE_LV60K_960H",
+    # "id": "indonesian-nlp/wav2vec2-large-xlsr-indonesian",
 }
 
 
